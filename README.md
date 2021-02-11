@@ -2,8 +2,11 @@
 
 아카라이브 라스트오리진 채널 프로그램입니다.
 
-다운로드\
-https://github.com/vitus9988/ArcaLive_LastOrigin_Searcher/releases/download/1.1.0/core_gui.1.1.0.exe
+
+[다운로드][다운로드]
+
+[다운로드]: https://github.com/vitus9988/ArcaLive_LastOrigin_Searcher/releases/download/1.1.0/core_gui.1.1.0.exe
+
 
 
 ### 1. 공략 검색
